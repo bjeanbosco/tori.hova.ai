@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tori.hova.ai/static/css/main.97d4b8c1.css",
-    "main.js": "/tori.hova.ai/static/js/main.df6453b0.js",
+    "main.css": "/tori.hova.ai/static/css/main.5ae8c422.css",
+    "main.js": "/tori.hova.ai/static/js/main.ff664065.js",
     "reactPlayerYouTube.js": "/tori.hova.ai/static/js/reactPlayerYouTube.43d05434.chunk.js",
     "reactPlayerSoundCloud.js": "/tori.hova.ai/static/js/reactPlayerSoundCloud.c76eb3c2.chunk.js",
     "reactPlayerVimeo.js": "/tori.hova.ai/static/js/reactPlayerVimeo.a5544734.chunk.js",
@@ -18,8 +18,8 @@
     "static/media/video.mp4": "/tori.hova.ai/static/media/video.2bfc736e625aac7739d5.mp4",
     "static/media/logo.819e5eb3.png": "/tori.hova.ai/static/media/logo.819e5eb3.cfd2d7b16729cf99998a.png",
     "index.html": "/tori.hova.ai/index.html",
-    "main.97d4b8c1.css.map": "/tori.hova.ai/static/css/main.97d4b8c1.css.map",
-    "main.df6453b0.js.map": "/tori.hova.ai/static/js/main.df6453b0.js.map",
+    "main.5ae8c422.css.map": "/tori.hova.ai/static/css/main.5ae8c422.css.map",
+    "main.ff664065.js.map": "/tori.hova.ai/static/js/main.ff664065.js.map",
     "reactPlayerYouTube.43d05434.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerYouTube.43d05434.chunk.js.map",
     "reactPlayerSoundCloud.c76eb3c2.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerSoundCloud.c76eb3c2.chunk.js.map",
     "reactPlayerVimeo.a5544734.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerVimeo.a5544734.chunk.js.map",
@@ -35,7 +35,7 @@
     "reactPlayerPreview.51725646.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerPreview.51725646.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d4b8c1.css",
-    "static/js/main.df6453b0.js"
+    "static/css/main.5ae8c422.css",
+    "static/js/main.ff664065.js"
   ]
 }
