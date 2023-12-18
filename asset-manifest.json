@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tori.hova.ai/static/css/main.ce23a8a4.css",
-    "main.js": "/tori.hova.ai/static/js/main.f1a53147.js",
+    "main.js": "/tori.hova.ai/static/js/main.ccd4c3b3.js",
     "reactPlayerYouTube.js": "/tori.hova.ai/static/js/reactPlayerYouTube.43d05434.chunk.js",
     "reactPlayerSoundCloud.js": "/tori.hova.ai/static/js/reactPlayerSoundCloud.c76eb3c2.chunk.js",
     "reactPlayerVimeo.js": "/tori.hova.ai/static/js/reactPlayerVimeo.a5544734.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/logo.819e5eb3.png": "/tori.hova.ai/static/media/logo.819e5eb3.cfd2d7b16729cf99998a.png",
     "index.html": "/tori.hova.ai/index.html",
     "main.ce23a8a4.css.map": "/tori.hova.ai/static/css/main.ce23a8a4.css.map",
-    "main.f1a53147.js.map": "/tori.hova.ai/static/js/main.f1a53147.js.map",
+    "main.ccd4c3b3.js.map": "/tori.hova.ai/static/js/main.ccd4c3b3.js.map",
     "reactPlayerYouTube.43d05434.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerYouTube.43d05434.chunk.js.map",
     "reactPlayerSoundCloud.c76eb3c2.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerSoundCloud.c76eb3c2.chunk.js.map",
     "reactPlayerVimeo.a5544734.chunk.js.map": "/tori.hova.ai/static/js/reactPlayerVimeo.a5544734.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.ce23a8a4.css",
-    "static/js/main.f1a53147.js"
+    "static/js/main.ccd4c3b3.js"
   ]
 }
